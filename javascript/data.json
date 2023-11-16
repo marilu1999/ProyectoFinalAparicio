@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Primavera",
+        "precio": 12000,
+        "img": "https://muy-trendy.com/wp-content/uploads/2020/06/maxi-vestido-casual-para-primavera-560x700.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Verano",
+        "precio": 15000,
+        "img": "https://www.myoutfie.com/historias/wp-content/uploads/2020/01/outfits-con-short-2-683x1024.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Otoño",
+        "precio": 20000,
+        "img": "https://outfits.tips/wp-content/uploads/2021/07/outfit-otono-para-mujer-con-minifalda-tweed-y-sueter-rojo.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Invierno",
+        "precio": 22000,
+        "img": "https://www.shopaholicsmexico.com/wp-content/uploads/outfits-casuales-de-invierno-mujer.webp"
+    }
+]
